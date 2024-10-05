@@ -12,8 +12,8 @@ const properties = [
 ];
 export default function ServicesCard() {
     return (
-        <div className="py-5    mt-10 bg-Green3 h-fit container-fluid relative">
-            <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 -start">
+        <div className="py-5 mt-10 bg-Green3 h-fit container-fluid relative">
+            <div className="absolute top-8 left-1/2 transform -translate-x-1/2 -translate-y-1/2 -start">
                 <div className="relative flex flex-col items-center justify-center lg:flex-row md:flex-row lg:justify-center">
                     <h2 className="text-xl lg:text-3xl xl:text-4xl text-Green300 text-center lg:text-center mr-4 lg:mb-0 tracking-widest font-Poppins-Regular font-bold">
                         FEATURED
@@ -57,7 +57,7 @@ export default function ServicesCard() {
                     ))}
                 </div>
             </section>
-            <Link href='/property-search?type=Commercial' className="absolute bottom-[-0.8rem] right-0 transform group">
+            <Link href='/our-services' className="absolute bottom-[-0.8rem] right-0 transform group">
                 <button className="flex items-center justify-center lg:justify-center px-5">
                     <span className="font-bold text-md md:text-xl border-b border-transparent mx-auto group-hover:border-b group-hover:border-stone-400 duration-700">
                         View More
