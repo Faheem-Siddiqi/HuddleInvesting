@@ -6,7 +6,7 @@ export default function HeroSection() {
     <>
       <section
         className="relative homeHero font-Poppins-Regular py-16 px-4 sm:px-8 lg:px-16 text-center">
-        <div className="max-w-3xl mx-auto "
+        <div className="max-w-3xl mx-auto relative z-10"
         >
           <div className="flex items-center justify-center mb-6">
             <Image
