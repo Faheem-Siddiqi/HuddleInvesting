@@ -1,9 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/pages//*.{js,ts,jsx,tsx,mdx}",
+    "./src/components//*.{js,ts,jsx,tsx,mdx}",
+    "./src/app//*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
     extend: {
@@ -35,6 +35,10 @@ module.exports = {
         Green500: '#004700',
         Green600: '#002500',
         Green100: '#DCFFDC',
+        GreenMy: '#249B4C',
+        Gold :'#E8A438',
+        mywhite: "#FFFADA"
+
       },
       fontFamily: {
         "Satoshi-Black": ["Satoshi-Black", "sans-serif"],
