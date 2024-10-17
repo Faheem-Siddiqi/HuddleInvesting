@@ -85,7 +85,7 @@ export default function Footer() {
                 <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin className="text-Green475 text-3xl" />
                 </a>
-                <a href="https://twitter.com/bmyhealth" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
                   <BsTwitterX className="text-Green475 text-3xl ml-1" />
                 </a>
               </div>
