@@ -76,13 +76,13 @@ export default function Footer() {
             <div className="flex flex-col mt-3 w-fit font-Poppins-Regular">
               <h1 className=" font-bold font-WorkSans-Regular text-2xl text-Green475">Find Us</h1>
               <div className="flex gap-3 mt-2 items-center">
-                <a href="https://www.facebook.com/BMYHealthPak" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
                   <IoLogoFacebook className="text-Green475 text-4xl" />
                 </a>
-                <a href="https://www.instagram.com/bmyhealthpak/?igsh=MXQ0aGt5OXMzbmU5MA%3D%3D" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
                   <FaInstagram className="text-Green475 text-3xl" />
                 </a>
-                <a href="https://www.linkedin.com/company/bmy-health/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin className="text-Green475 text-3xl" />
                 </a>
                 <a href="https://twitter.com/bmyhealth" target="_blank" rel="noopener noreferrer">

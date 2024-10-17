@@ -94,16 +94,16 @@ export default function Page() {
             <div>
               <h1 className='md:text-xl text-lg font-extrabold text-Green475 font-Poppins-Regular'>Socials</h1>
               <div className="flex gap-3 mt-2 items-center">
-                <a href="https://www.facebook.com/BMYHealthPak" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
                   <IoLogoFacebook className="text-Green475 text-3xl" />
                 </a>
-                <a href="https://www.instagram.com/bmyhealthpak/?igsh=MXQ0aGt5OXMzbmU5MA%3D%3D" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/%3D" target="_blank" rel="noopener noreferrer">
                   <FaInstagram className="text-Green475 text-2xl" />
                 </a>
-                <a href="https://www.linkedin.com/company/bmy-health/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin className="text-Green475 text-2xl" />
                 </a>
-                <a href="https://twitter.com/bmyhealth" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
                   <BsTwitterX className="text-Green475 text-2xl ml-1" />
                 </a>
               </div>
