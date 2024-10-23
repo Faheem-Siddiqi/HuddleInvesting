@@ -3,7 +3,7 @@ import "./globals.css";
 import Footer from './layout/Footer';
 import Navbar from './layout/Navbar';
 export const metadata = {
-  title: "Huddle Trading",
+  title: "Huddle Investing",
   description: "Huddle Investing is an innovative platform that connects investors with seasoned financial experts, offering automated tools, expert-driven insights, and community-based trading. Our mission is to simplify the investment process, foster collaboration, and empower users to achieve financial growth through cutting-edge technology and trusted expertise.",
   icons: {
     icon: ["/assets/favicon.ico?v=4"],
