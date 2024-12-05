@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
           showSpinner={false}
           color="#005B2F" />
         <Navbar />
-        {/* {children} */}
+        {children}
         <Footer />
       </body>
     </html>
